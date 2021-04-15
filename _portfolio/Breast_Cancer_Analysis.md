@@ -4,9 +4,6 @@ excerpt: ""
 mathjax: "true"
 ---
 
-# Breast Cancer Analysis
-## EDA and Predictive Analytics
-
 ### Introduction
 Breast cancer is the most common type of cancer among women – 1 in 8 women in the United States will be diagnosed at some point in their life. Mammographic images are used to detect abnormal masses in breast tissue. Based on the observed attributes of the mass, a physician may recommend a biopsy to determine a diagnosis. A fine needle aspiration (FNA) biopsy is a common form of the procedure, in which a physician uses a needle attached to a syringe to withdraw tissue or fluid from the mass. Mammographic images and FNA biopsies tend to have diagnosis inaccuracies, yielding false negative rate of 20% and 12%, respectively. False negative, or Type II, diagnosis results are the most damaging as they allow breast cancer to remain undetected and treatment to be delayed. Delays in treatment increase the risk of metastasis, which can reduce life expectancy. I used the Haberman’s Survival dataset to determine which variables are most significant to the survival of a patient. Then, I used the Mammographic Imaging and Biopsy datasets to determine which variables are most significant to predict breast cancer with high accuracy and perfect recall, avoiding any false negative prediction to ensure breast cancer does not go undetected, thus increasing survival.
 
