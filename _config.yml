@@ -283,11 +283,10 @@ defaults:
       comments: # true
       share: true
       related: true
-      
-defaults:
+     
   #_pages
   - scope:
-      path: 
+      path: ""
       type: pages
     values:
       layout: single
