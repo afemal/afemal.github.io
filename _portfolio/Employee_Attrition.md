@@ -1,6 +1,6 @@
 ---
 title: "Employee Attrition"
-excerpt: "Predictive Analytics"
+excerpt: ""
 mathjax: "true"
 ---
 
