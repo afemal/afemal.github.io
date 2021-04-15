@@ -1,6 +1,6 @@
 ---
 title: Contact Me
-layout: contact
+<!--layout: contact-->
 author_profile: True
 permalink: /contact/
 ---
