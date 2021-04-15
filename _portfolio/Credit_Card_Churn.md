@@ -26,7 +26,10 @@ I obtained the [Credit Card Customers](https://www.kaggle.com/sakshigoyal7/credi
 ### Results
 The eXtreme Gradient Boosting classification model performed better than the other models. Therefore, I concatenated the training and validation data and performed a cross-validation randomized grid search to choose the best parameters. The fine-tuned eXtreme Gradient Boosting model was fit on the test data and produced the results seen in *Table 2*. 
 
-![credit card churn - table 2](https://user-images.githubusercontent.com/61814648/114947954-e7bd5400-9e02-11eb-8a2f-444d3d736d4d.png)*Table 2: Evaluation metric values of selected model after fine-tuning of parameters*
+<figure>
+  <figcaption>Table 2: Evaluation metric values of selected model after fine-tuning of parameters</figcaption>
+  <img src="https://user-images.githubusercontent.com/61814648/114947954-e7bd5400-9e02-11eb-8a2f-444d3d736d4d.png" style="width:100%">
+</figure>
 
 The classification results can be observed in the confusion matrix, *Figure 2*. Of the 1520 records in the test data, 209 customers were correctly classified and 9 were incorrectly classified as closing their account. Furthermore, 34 customers were incorrectly classified as existing cardholders but have closed their account. However, approximately 86% of customers at risk of churn were identified. The credit card company can extend retention offers to these cardholders; however, the additional 14% represents missed opportunity. The Area Under the Precision-Recall Curve can be seen in *Figure 3*.
 
