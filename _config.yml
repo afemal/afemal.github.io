@@ -285,10 +285,9 @@ defaults:
       related: true
       
 defaults:
-  _pages
+  #_pages
   - scope:
       path: 
-      permalink: /work/
       type: pages
     values:
       layout: single
