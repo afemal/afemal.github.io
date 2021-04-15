@@ -1,6 +1,6 @@
 ---
 title: "Diagnosing Breast Cancer"
-excerpt: "Exploratory Data Analysis and Prediction"
+excerpt: ""
 mathjax: "true"
 ---
 
