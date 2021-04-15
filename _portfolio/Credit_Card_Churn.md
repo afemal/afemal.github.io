@@ -27,7 +27,7 @@ I obtained the [Credit Card Customers](https://www.kaggle.com/sakshigoyal7/credi
 The eXtreme Gradient Boosting classification model performed better than the other models. Therefore, I concatenated the training and validation data and performed a cross-validation randomized grid search to choose the best parameters. The fine-tuned eXtreme Gradient Boosting model was fit on the test data and produced the results seen in *Table 2*. 
 
 <figure>
-  <figcaption>Table 2: Evaluation metric values of selected model after fine-tuning of parameters</figcaption>
+  <figcaption>Table 2: Evaluation metric values after parameter tuning</figcaption>
   <img src="https://user-images.githubusercontent.com/61814648/114947954-e7bd5400-9e02-11eb-8a2f-444d3d736d4d.png" style="width:100%">
 </figure>
 
@@ -46,23 +46,35 @@ The classification results can be observed in the confusion matrix, *Figure 2*. 
 ### Conclusion
 Once cardholders that have been identified as Attrited Customers, the company must decide how they will proceed with extending retention offers. It may choose one or multiple approaches to compare the effectiveness of each. Based on the responses of each cardholder, further analysis through uplift modeling can be conducted to determine which customers are most likely to respond to the retention offer.  During my research, I discovered two groups of cardholders to which company may not wish to extend retention offers: inactive cardholders and “churners”. First, credit card companies can cancel customer accounts due to inactivity. This is because they only have so much credit they can extend to their customers. They cannot simply give lines of credit to new customers without canceling others (Rathner, 2020). Therefore, the company may also be contributing to customer churn. Second, there are some customers who actively use credit card churn as a strategy to take advantage of card benefits. They open new credit cards accounts to take advantage of the initial signup benefits, cancel their card once the benefit is received, open a new account, and repeat the process. Prior to making a retention offer, the company may want to exclude cardholders who fall into one of these two groups. 
 
-### References
-Alpine Jennings, P. (2015, December 25). The 4 D's of Customer Attrition. Retrieved March 17, 2021, from https://thefinancialbrand.com/55772/banking-customer-attrition-analysis/ 
-Egan, J. (2020, July 03). How Do Credit Card Companies Make Money? Retrieved March 18, 2021, from https://www.creditcards.com/credit-card-news/how-credit-card-companies-make-money/
-Goyal, S. (2020, November 19). Credit Card Customers. Retrieved March 17, 2021, from https://www.kaggle.com/sakshigoyal7/credit-card-customers 
-Hurd, E. (2021, February 16). Should I Try Credit Card Churning? Retrieved March 17, 2021, from https://www.nerdwallet.com/article/credit-cards/credit-card-churning 
-Hurwood, J. (2016, November 30). Credit Card Colour Comparison: What's The Difference? Retrieved March 26, 2021, from https://www.canstar.com.au/credit-cards/colour-credit-card-mean/
-Irby, L. (2020, October 7). What is the credit utilization ratio? Retrieved April 03, 2021, from https://www.thebalance.com/what-is-a-good-credit-utilization-ratio-960548
-Johnson, H. (2020, February 27). What is Credit Card Churning? Retrieved March 17, 2021, from https://www.bankrate.com/finance/credit-cards/what-is-credit-card-churning-and-how-does-it-affect-your-credit-score/
-Johnson, H. (2020, April 21). Before You Cancel Your Premium Credit Card, Ask About a Retention Offer of Bonus Points or a Reduced Annual Fee. Retrieved March 18, 2021, from https://www.businessinsider.com/personal-finance/credit-card-retention-offers
-Lambarena, M. (2020, December 08). How Do Credit Card Companies Make Money? Retrieved March 18,   2021, from https://www.nerdwallet.com/article/credit-cards/credit-card-companies-money
-Rathner, S. (2020, September 22). Credit Card Closed for Inactivity? What You Need to Know. Retrieved March 18, 2021, from https://www.nerdwallet.com/article/credit-cards/credit-card-cancelled-due-inactivity
-Reducing Attrition Among Credit Card Clients. (n.d.). Retrieved March 17, 2021, from https://www.sas.com/en_nz/customers/tatra-banka.html
-Tripathi, S. (2018, November 30). How Can Analytics Help Control Attrition in the Credit Card Industry? Retrieved March 17, 2021, from https://analyticstraining.com/how-can-analytics-help-control-attrition-in-the-credit-card-industry-2/
-U.S. News Staff. (2021, March 15). 2019 Credit Card FEE Study: What's Normal and What's Not? Retrieved March 18, 2021, from https://creditcards.usnews.com/articles/fee-survey
-
 ### Presentation
 [![IMAGE ALT TEXT](https://user-images.githubusercontent.com/61814648/114291299-2f2a9580-9a3b-11eb-9b9c-5cecfccf47fe.png)](https://youtu.be/cV5D9zP-ze0)
+
+### References
+Alpine Jennings, P. (2015, December 25). The 4 D's of Customer Attrition. Retrieved March 17, 2021, from https://thefinancialbrand.com/55772/banking-customer-attrition-analysis/ 
+
+Egan, J. (2020, July 03). How Do Credit Card Companies Make Money? Retrieved March 18, 2021, from https://www.creditcards.com/credit-card-news/how-credit-card-companies-make-money/
+
+Goyal, S. (2020, November 19). Credit Card Customers. Retrieved March 17, 2021, from https://www.kaggle.com/sakshigoyal7/credit-card-customers 
+
+Hurd, E. (2021, February 16). Should I Try Credit Card Churning? Retrieved March 17, 2021, from https://www.nerdwallet.com/article/credit-cards/credit-card-churning 
+
+Hurwood, J. (2016, November 30). Credit Card Colour Comparison: What's The Difference? Retrieved March 26, 2021, from https://www.canstar.com.au/credit-cards/colour-credit-card-mean/
+
+Irby, L. (2020, October 7). What is the credit utilization ratio? Retrieved April 03, 2021, from https://www.thebalance.com/what-is-a-good-credit-utilization-ratio-960548
+
+Johnson, H. (2020, February 27). What is Credit Card Churning? Retrieved March 17, 2021, from https://www.bankrate.com/finance/credit-cards/what-is-credit-card-churning-and-how-does-it-affect-your-credit-score/
+
+Johnson, H. (2020, April 21). Before You Cancel Your Premium Credit Card, Ask About a Retention Offer of Bonus Points or a Reduced Annual Fee. Retrieved March 18, 2021, from https://www.businessinsider.com/personal-finance/credit-card-retention-offers
+
+Lambarena, M. (2020, December 08). How Do Credit Card Companies Make Money? Retrieved March 18,   2021, from https://www.nerdwallet.com/article/credit-cards/credit-card-companies-money
+
+Rathner, S. (2020, September 22). Credit Card Closed for Inactivity? What You Need to Know. Retrieved March 18, 2021, from https://www.nerdwallet.com/article/credit-cards/credit-card-cancelled-due-inactivity
+
+Reducing Attrition Among Credit Card Clients. (n.d.). Retrieved March 17, 2021, from https://www.sas.com/en_nz/customers/tatra-banka.html
+
+Tripathi, S. (2018, November 30). How Can Analytics Help Control Attrition in the Credit Card Industry? Retrieved March 17, 2021, from https://analyticstraining.com/how-can-analytics-help-control-attrition-in-the-credit-card-industry-2/
+
+U.S. News Staff. (2021, March 15). 2019 Credit Card FEE Study: What's Normal and What's Not? Retrieved March 18, 2021, from https://creditcards.usnews.com/articles/fee-survey
 
 ### Repository
 [Credit Card Churn](https://github.com/afemal/Credit_Card_Churn)
