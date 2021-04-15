@@ -26,6 +26,5 @@ HR Analytics Case Study: https://www.kaggle.com/vjchoudhary7/hr-analytics-case-s
 ### Conclusion
 The decision tree outperformed the random forest, with a recall score of 0.87 and average precision of 0.85.  
 
-### Navigation
-* Employee_Attrition: Data prep, EDA, and analysis conducted in Jupyter Notebook (Python) 
-* Whitepaper_Employee_Attrition: The final documentation of my findings.
+### Repository
+[Employee Attrition](https://github.com/afemal/Employee_Attrition)
