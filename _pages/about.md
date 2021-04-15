@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Me
 permalink: /about/
 adauthor_profile: True
 classes: wide
