@@ -50,31 +50,31 @@ Once cardholders that have been identified as Attrited Customers, the company mu
 [![IMAGE ALT TEXT](https://user-images.githubusercontent.com/61814648/114291299-2f2a9580-9a3b-11eb-9b9c-5cecfccf47fe.png)](https://youtu.be/cV5D9zP-ze0)
 
 ### References
-Alpine Jennings, P. (2015, December 25). The 4 D's of Customer Attrition. Retrieved March 17, 2021, from <a>https://thefinancialbrand.com/55772/banking-customer-attrition-analysis/)</a> 
+Alpine Jennings, P. (2015, December 25). The 4 D's of Customer Attrition. Retrieved March 17, 2021, from <a>https://thefinancialbrand.com/55772/banking-customer-attrition-analysis/</a> 
 
-Egan, J. (2020, July 03). How Do Credit Card Companies Make Money? Retrieved March 18, 2021, from https://www.creditcards.com/credit-card-news/how-credit-card-companies-make-money/
+Egan, J. (2020, July 03). How Do Credit Card Companies Make Money? Retrieved March 18, 2021, from <a>https://www.creditcards.com/credit-card-news/how-credit-card-companies-make-money/</a>
 
-Goyal, S. (2020, November 19). Credit Card Customers. Retrieved March 17, 2021, from https://www.kaggle.com/sakshigoyal7/credit-card-customers 
+Goyal, S. (2020, November 19). Credit Card Customers. Retrieved March 17, 2021, from <a>https://www.kaggle.com/sakshigoyal7/credit-card-customers</a>
 
-Hurd, E. (2021, February 16). Should I Try Credit Card Churning? Retrieved March 17, 2021, from https://www.nerdwallet.com/article/credit-cards/credit-card-churning 
+Hurd, E. (2021, February 16). Should I Try Credit Card Churning? Retrieved March 17, 2021, from <a>https://www.nerdwallet.com/article/credit-cards/credit-card-churning</a>
 
-Hurwood, J. (2016, November 30). Credit Card Colour Comparison: What's The Difference? Retrieved March 26, 2021, from https://www.canstar.com.au/credit-cards/colour-credit-card-mean/
+Hurwood, J. (2016, November 30). Credit Card Colour Comparison: What's The Difference? Retrieved March 26, 2021, from <a>https://www.canstar.com.au/credit-cards/colour-credit-card-mean/</a>
 
-Irby, L. (2020, October 7). What is the credit utilization ratio? Retrieved April 03, 2021, from https://www.thebalance.com/what-is-a-good-credit-utilization-ratio-960548
+Irby, L. (2020, October 7). What is the credit utilization ratio? Retrieved April 03, 2021, from <a>https://www.thebalance.com/what-is-a-good-credit-utilization-ratio-960548</a>
 
-Johnson, H. (2020, February 27). What is Credit Card Churning? Retrieved March 17, 2021, from https://www.bankrate.com/finance/credit-cards/what-is-credit-card-churning-and-how-does-it-affect-your-credit-score/
+Johnson, H. (2020, February 27). What is Credit Card Churning? Retrieved March 17, 2021, from <a>https://www.bankrate.com/finance/credit-cards/what-is-credit-card-churning-and-how-does-it-affect-your-credit-score/</a>
 
-Johnson, H. (2020, April 21). Before You Cancel Your Premium Credit Card, Ask About a Retention Offer of Bonus Points or a Reduced Annual Fee. Retrieved March 18, 2021, from https://www.businessinsider.com/personal-finance/credit-card-retention-offers
+Johnson, H. (2020, April 21). Before You Cancel Your Premium Credit Card, Ask About a Retention Offer of Bonus Points or a Reduced Annual Fee. Retrieved March 18, 2021, from <a>https://www.businessinsider.com/personal-finance/credit-card-retention-offers</a>
 
-Lambarena, M. (2020, December 08). How Do Credit Card Companies Make Money? Retrieved March 18,   2021, from https://www.nerdwallet.com/article/credit-cards/credit-card-companies-money
+Lambarena, M. (2020, December 08). How Do Credit Card Companies Make Money? Retrieved March 18, 2021, from <a>https://www.nerdwallet.com/article/credit-cards/credit-card-companies-money</a>
 
-Rathner, S. (2020, September 22). Credit Card Closed for Inactivity? What You Need to Know. Retrieved March 18, 2021, from https://www.nerdwallet.com/article/credit-cards/credit-card-cancelled-due-inactivity
+Rathner, S. (2020, September 22). Credit Card Closed for Inactivity? What You Need to Know. Retrieved March 18, 2021, from <a>https://www.nerdwallet.com/article/credit-cards/credit-card-cancelled-due-inactivity</a>
 
-Reducing Attrition Among Credit Card Clients. (n.d.). Retrieved March 17, 2021, from https://www.sas.com/en_nz/customers/tatra-banka.html
+Reducing Attrition Among Credit Card Clients. (n.d.). Retrieved March 17, 2021, from <a>https://www.sas.com/en_nz/customers/tatra-banka.html</a>
 
-Tripathi, S. (2018, November 30). How Can Analytics Help Control Attrition in the Credit Card Industry? Retrieved March 17, 2021, from https://analyticstraining.com/how-can-analytics-help-control-attrition-in-the-credit-card-industry-2/
+Tripathi, S. (2018, November 30). How Can Analytics Help Control Attrition in the Credit Card Industry? Retrieved March 17, 2021, from <a>https://analyticstraining.com/how-can-analytics-help-control-attrition-in-the-credit-card-industry-2/</a>
 
-U.S. News Staff. (2021, March 15). 2019 Credit Card FEE Study: What's Normal and What's Not? Retrieved March 18, 2021, from https://creditcards.usnews.com/articles/fee-survey
+U.S. News Staff. (2021, March 15). 2019 Credit Card FEE Study: What's Normal and What's Not? Retrieved March 18, 2021, from <a>https://creditcards.usnews.com/articles/fee-survey</a>
 
 ### Repository
 [Credit Card Churn](https://github.com/afemal/Credit_Card_Churn)
