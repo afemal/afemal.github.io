@@ -36,5 +36,5 @@ Through my exploratory data analysis, I was able to predict a malignant diagnosi
 [Breast Cancer Biopsy Data](https://github.com/afemal/Breast_Cancer_Biopsy_Data)
 
 ### Resources
-This analysis utilizes supported code from Allen Downey's ThinkStats2 https://github.com/AllenDowney/ThinkStats2
+This analysis utilizes supported code from Allen Downey's [ThinkStats2](https://github.com/AllenDowney/ThinkStats2)
 
