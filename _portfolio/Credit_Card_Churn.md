@@ -26,7 +26,7 @@ The classification results can be observed in the confusion matrix, *Figure 2*. 
 
 <figure>
   <figcaption>Figure 2: Confusion matrix of results</figcaption>
-  <img src="https://user-images.githubusercontent.com/61814648/114949730-72ec1900-9e06-11eb-8646-d33c1e2cbc54.png" style="width:25%">
+  <img src="https://user-images.githubusercontent.com/61814648/114949730-72ec1900-9e06-11eb-8646-d33c1e2cbc54.png" style="width:100%">
 </figure>
 
 <figure>
