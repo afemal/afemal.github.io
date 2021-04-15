@@ -1,6 +1,7 @@
 ---
 title: "Credit Card Churn"
 excerpt: "Predictive Analytics"
+mathjax: "true"
 ---
 
 ### Introduction
