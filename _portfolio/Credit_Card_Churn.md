@@ -24,14 +24,15 @@ The eXtreme Gradient Boosting classification model performed better than the oth
 
 The classification results can be observed in the confusion matrix, *Figure 2*. Of the 1520 records in the test data, 209 customers were correctly classified and 9 were incorrectly classified as closing their account. Furthermore, 34 customers were incorrectly classified as existing cardholders but have closed their account. However, approximately 86% of customers at risk of churn were identified. The credit card company can extend retention offers to these cardholders; however, the additional 14% represents missed opportunity. The Area Under the Precision-Recall Curve can be seen in *Figure 3*.
 
-![credit card churn - figure 2](https://user-images.githubusercontent.com/61814648/114948173-5b5f6100-9e03-11eb-8e86-f093cac3f871.png)*Figure 2: Confusion matrix of results*
-
 <figure>
-  <img src="https://user-images.githubusercontent.com/61814648/114948173-5b5f6100-9e03-11eb-8e86-f093cac3f871.png" width="500" height="500">
+  <img src="https://user-images.githubusercontent.com/61814648/114949730-72ec1900-9e06-11eb-8646-d33c1e2cbc54.png" width="500" height="500">
   <figcaption>Figure 2: Confusion matrix of results</figcaption>
 </figure>
 
-![credit card churn - figure 3](https://user-images.githubusercontent.com/61814648/114948220-6d410400-9e03-11eb-87bf-ec6391b43518.png)*Figure 3: Area under the precision-recall curve*
+<figure>
+  <img src="https://user-images.githubusercontent.com/61814648/114949788-97e08c00-9e06-11eb-8de3-be9a2449f44b.png" width="500" height="500">
+  <figcaption>Figure 3: Area under the precision-recall curve</figcaption>
+</figure>
 
 ### Conclusion
 Once cardholders that have been identified as Attrited Customers, the company must decide how they will proceed with extending retention offers. It may choose one or multiple approaches to compare the effectiveness of each. Based on the responses of each cardholder, further analysis through uplift modeling can be conducted to determine which customers are most likely to respond to the retention offer.  During my research, I discovered two groups of cardholders to which company may not wish to extend retention offers: inactive cardholders and “churners”. First, credit card companies can cancel customer accounts due to inactivity. This is because they only have so much credit they can extend to their customers. They cannot simply give lines of credit to new customers without canceling others (Rathner, 2020). Therefore, the company may also be contributing to customer churn. Second, there are some customers who actively use credit card churn as a strategy to take advantage of card benefits. They open new credit cards accounts to take advantage of the initial signup benefits, cancel their card once the benefit is received, open a new account, and repeat the process. Prior to making a retention offer, the company may want to exclude cardholders who fall into one of these two groups. 
