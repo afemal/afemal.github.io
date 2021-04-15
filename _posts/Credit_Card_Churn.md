@@ -40,3 +40,5 @@ The eXtreme Gradient Boosting Classifier provided an Area Under the Precision-Re
 ### Presentation
 [![IMAGE ALT TEXT](https://user-images.githubusercontent.com/61814648/114291299-2f2a9580-9a3b-11eb-9b9c-5cecfccf47fe.png)](https://youtu.be/cV5D9zP-ze0)
 
+### Repository
+[Credit Card Churn](https://github.com/afemal/Credit_Card_Churn)
