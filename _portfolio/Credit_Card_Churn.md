@@ -13,9 +13,15 @@ Customer attrition, or customer churn, can be defined as the rate at which custo
 ### Methods
 I obtained the [Credit Card Customers](https://www.kaggle.com/sakshigoyal7/credit-card-customers) dataset from Kaggle, which contained over 10,000 credit cardholder records. It contained 20 variables, including the target variable Attrition_Flag – a categorical variable with binary classes, Existing Customer and Attrited Customer. First, I split the data into a training, validation, and test sets. The training set contained 70% of the data and the remaining 30% was split evenly between the validation and test sets. After converting the categorical variables (Gender,  Education_Level, Marital Status, Income_Category, Card_Category), I used the training data and a decision tree to determine variable importance. The selected the variables that represented 97% importance, as seen in *Figure 1*. Using these variables, I trained and fit five different classification models on the validation data. To evaluate the models, I used the Area Under the Precision-Recall Curve and Negative Log-Loss. The Area Under the Precision-Recall Curve is stable under class-imbalance. Therefore, if the number of cardholders who cancel their account makes up a small percentage of the dataset, this metric will allow me to focus on the trade-off of precision and recall instead of giving credit for true negative predictions that often overwhelm the set of predictions. This allows for additional requirements to potentially quantify the impact of Type 1 (customers predicted to cancel their card but do not) and Type 2 (customers predicted to keep their card but cancel) errors to set a threshold of prediction. Average precision is a metric with scores between 0 and 1, where higher is better. Negative Log-Loss uses calibrated probabilities to assess how confident and correct the model is on average. It heavily penalizes confident and wrong predictions. Negative Log-Los is a metric of positive numbers, where lower is better. I also noted the accuracy of each model. The results can be seen in *Table 1*. 
 
-![credit card churn - figure1](https://user-images.githubusercontent.com/61814648/114947546-31596f00-9e02-11eb-902d-a9765cde5116.png)*Figure 1: Variables with top 97% importance*
+<figure>
+  <figcaption>Figure 1: Variables with top 97% importance</figcaption>
+  <img src="https://user-images.githubusercontent.com/61814648/114950222-77fd9800-9e07-11eb-94dc-f22ad64cbdec.png" style="width:70%">
+</figure>
 
-![credit card churn - table 1](https://user-images.githubusercontent.com/61814648/114947818-a6c53f80-9e02-11eb-8a60-a455eb6ac929.png)*Table 1: Evaluation metric values for each classification model*
+<figure>
+  <figcaption>Table 1: Evaluation metric values for each classification model</figcaption>
+  <img src="https://user-images.githubusercontent.com/61814648/114947818-a6c53f80-9e02-11eb-8a60-a455eb6ac929.png" style="width:100%">
+</figure>
 
 ### Results
 The eXtreme Gradient Boosting classification model performed better than the other models. Therefore, I concatenated the training and validation data and performed a cross-validation randomized grid search to choose the best parameters. The fine-tuned eXtreme Gradient Boosting model was fit on the test data and produced the results seen in *Table 2*. 
