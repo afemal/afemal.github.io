@@ -50,7 +50,7 @@ Once cardholders that have been identified as Attrited Customers, the company mu
 [![IMAGE ALT TEXT](https://user-images.githubusercontent.com/61814648/114291299-2f2a9580-9a3b-11eb-9b9c-5cecfccf47fe.png)](https://youtu.be/cV5D9zP-ze0)
 
 ### References
-Alpine Jennings, P. (2015, December 25). The 4 D's of Customer Attrition. Retrieved March 17, 2021, from https://thefinancialbrand.com/55772/banking-customer-attrition-analysis/ 
+Alpine Jennings, P. (2015, December 25). The 4 D's of Customer Attrition. Retrieved March 17, 2021, from <a>https://thefinancialbrand.com/55772/banking-customer-attrition-analysis/)</a> 
 
 Egan, J. (2020, July 03). How Do Credit Card Companies Make Money? Retrieved March 18, 2021, from https://www.creditcards.com/credit-card-news/how-credit-card-companies-make-money/
 
