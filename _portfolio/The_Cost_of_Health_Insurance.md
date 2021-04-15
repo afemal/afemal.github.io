@@ -16,7 +16,7 @@ There are many factors that drive the increasing costs of health insurance. This
   * scikit-learn
 
 ### Data
-Medical Cost Personal Datasets: https://www.kaggle.com/mirichoi0218/insurance
+[Medical Cost Personal Dataset](https://www.kaggle.com/mirichoi0218/insurance)
 
 ### Modeling Methods
 * Linear Regression
