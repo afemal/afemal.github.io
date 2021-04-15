@@ -1,5 +1,7 @@
-# Credit Card Churn
-## Predictive Analytics
+---
+title: "Credit Card Churn"
+excerpt: "Predictive Analytics"
+---
 
 ### Introduction
 Customer churn can be defined as the rate at which customers stop doing business with a company. It is an important metric to consider since it is generally more expensive to acquire new customers than to retain existing customers. By determining which factors contribute to credit card churn, the company can identify individual cardholders who are likely to cancel their credit card. In turn, the company can extend a retention offer to these customers to encourage them to retain their card. 
