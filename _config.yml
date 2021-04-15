@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Amy Femal"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am currently persuing a Master's degree in Data Science and seeking new employment opportunities."
+  bio              : #"I am currently persuing a Master's degree in Data Science and seeking new employment opportunities."
   location         : "Los Angeles, CA"
   email            :
   links:
