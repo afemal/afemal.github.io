@@ -1,6 +1,6 @@
 ---
-title: "The Cost of Health Insurance"
-excerpt: "Predictive Analytics"
+title: "Health Insurance Cost Prediction"
+excerpt: ""
 mathjax: "true"
 ---
 ### Introduction
