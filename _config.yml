@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Amy Femal"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://user-images.githubusercontent.com/61814648/114941052-7deb7d00-9df7-11eb-8a58-c600058a423d.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Los Angeles, CA"
   email            :
