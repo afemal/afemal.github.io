@@ -24,7 +24,9 @@ The eXtreme Gradient Boosting classification model performed better than the oth
 
 The classification results can be observed in the confusion matrix, *Figure 2*. Of the 1520 records in the test data, 209 customers were correctly classified and 9 were incorrectly classified as closing their account. Furthermore, 34 customers were incorrectly classified as existing cardholders but have closed their account. However, approximately 86% of customers at risk of churn were identified. The credit card company can extend retention offers to these cardholders; however, the additional 14% represents missed opportunity. The Area Under the Precision-Recall Curve can be seen in *Figure 3*.
 
-![credit card churn - figure 2](https://user-images.githubusercontent.com/61814648/114948173-5b5f6100-9e03-11eb-8e86-f093cac3f871.png){ width=50% }*Figure 2: Confusion matrix of results*
+![credit card churn - figure 2](https://user-images.githubusercontent.com/61814648/114948173-5b5f6100-9e03-11eb-8e86-f093cac3f871.png)*Figure 2: Confusion matrix of results*
+
+<img src="https://user-images.githubusercontent.com/61814648/114948173-5b5f6100-9e03-11eb-8e86-f093cac3f871.png" width="100" height="100">
 
 ![credit card churn - figure 3](https://user-images.githubusercontent.com/61814648/114948220-6d410400-9e03-11eb-87bf-ec6391b43518.png)*Figure 3: Area under the precision-recall curve*
 
