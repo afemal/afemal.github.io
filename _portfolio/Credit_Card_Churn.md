@@ -15,7 +15,7 @@ I obtained the [Credit Card Customers](https://www.kaggle.com/sakshigoyal7/credi
 
 <figure>
   <figcaption>Figure 1: Variables with top 97% importance</figcaption>
-  <img src="https://user-images.githubusercontent.com/61814648/114950222-77fd9800-9e07-11eb-94dc-f22ad64cbdec.png" style="width:100%">
+  <img src="https://user-images.githubusercontent.com/61814648/114950222-77fd9800-9e07-11eb-94dc-f22ad64cbdec.png" style="width:105%">
 </figure>
 
 <figure>
@@ -35,7 +35,7 @@ The classification results can be observed in the confusion matrix, *Figure 2*. 
 
 <figure>
   <figcaption>Figure 2: Confusion matrix of results</figcaption>
-  <img src="https://user-images.githubusercontent.com/61814648/114949730-72ec1900-9e06-11eb-8646-d33c1e2cbc54.png" style="width:100%">
+  <img src="https://user-images.githubusercontent.com/61814648/114949730-72ec1900-9e06-11eb-8646-d33c1e2cbc54.png" style="width:85%">
 </figure>
 
 <figure>
