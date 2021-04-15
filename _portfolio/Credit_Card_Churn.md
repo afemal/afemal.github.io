@@ -31,7 +31,7 @@ The classification results can be observed in the confusion matrix, *Figure 2*. 
 
 <figure>
   <figcaption>Figure 3: Area under the precision-recall curve</figcaption>
-  <img src="https://user-images.githubusercontent.com/61814648/114949788-97e08c00-9e06-11eb-8de3-be9a2449f44b.png" style="width:50%">
+  <img src="https://user-images.githubusercontent.com/61814648/114949788-97e08c00-9e06-11eb-8de3-be9a2449f44b.png" style="width:100%">
 </figure>
 
 ### Conclusion
