@@ -1,6 +1,6 @@
 ---
 title: Contact Me
-<!--layout: contact-->
-author_profile: True
 permalink: /contact/
+adauthor_profile: True
+classes: wide
 ---
