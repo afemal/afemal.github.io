@@ -18,7 +18,7 @@ Fine needle aspiration (FNA) biopsies are performed on masses found in breast ti
   * statsmodel.formula.api
 
 ### Data
-Breast Cancer Prediction Dataset - https://www.kaggle.com/merishnasuwal/breast-cancer-prediction-dataset
+[Breast Cancer Prediction Dataset](https://www.kaggle.com/merishnasuwal/breast-cancer-prediction-dataset)
 
 ### Techniques Used
 * Histograms
@@ -32,5 +32,9 @@ Breast Cancer Prediction Dataset - https://www.kaggle.com/merishnasuwal/breast-c
 ### Conclusion
 Through my exploratory data analysis, I was able to predict a malignant diagnosis using logistic regression with 94% accuracy. 
 
+### Repository
+[Breast Cancer Biopsy Data](https://github.com/afemal/Breast_Cancer_Biopsy_Data)
+
 ### Resources
 This analysis utilizes supported code from Allen Downey's ThinkStats2 https://github.com/AllenDowney/ThinkStats2
+
