@@ -1,7 +1,7 @@
 ---
+title: About
 permalink: /about/
-title: "About"
-author_profile: true
-header: 
+author_profile: True
+classes: wide
 ---
 
