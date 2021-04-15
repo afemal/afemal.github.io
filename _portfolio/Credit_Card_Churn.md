@@ -26,7 +26,7 @@ The classification results can be observed in the confusion matrix, *Figure 2*. 
 
 ![credit card churn - figure 2](https://user-images.githubusercontent.com/61814648/114948173-5b5f6100-9e03-11eb-8e86-f093cac3f871.png)*Figure 2: Confusion matrix of results*
 
-<img src="https://user-images.githubusercontent.com/61814648/114948173-5b5f6100-9e03-11eb-8e86-f093cac3f871.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/61814648/114948173-5b5f6100-9e03-11eb-8e86-f093cac3f871.png" width="500" height="500">*Figure 2: Confusion matrix of results*
 
 ![credit card churn - figure 3](https://user-images.githubusercontent.com/61814648/114948220-6d410400-9e03-11eb-87bf-ec6391b43518.png)*Figure 3: Area under the precision-recall curve*
 
