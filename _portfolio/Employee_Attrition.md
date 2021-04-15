@@ -17,7 +17,7 @@ Employee attrition is the natural process in which employees leave the workforce
   * scikit-learn
 
 ### Data
-HR Analytics Case Study: https://www.kaggle.com/vjchoudhary7/hr-analytics-case-study?select=general_data.csv
+[HR Analytics Case Study](https://www.kaggle.com/vjchoudhary7/hr-analytics-case-study?select=general_data.csv)
 
 ### Modeling Methods
 * Decision Tree
