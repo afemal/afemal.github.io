@@ -4,7 +4,7 @@ main:
     url: /about/
   - title: "Projects"
     url: /projects/
-  - title: "Contact"
+  #- title: "Contact"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
