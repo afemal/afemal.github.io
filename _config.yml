@@ -285,12 +285,12 @@ defaults:
       related: true
      
   #_pages
- # - scope:
-  #    path: ""
- #     type: pages
- #   values:
- #     layout: single
- #     author_profile: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
 # _portfolio
   - scope:
@@ -298,7 +298,7 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       share: true
 
 collections:
