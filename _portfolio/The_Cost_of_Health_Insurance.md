@@ -105,7 +105,7 @@ Based on the regression models we used, we saw improved prediction when using th
 * whether those insured have chronic diseases or illnesses
 
 ### Presentation
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/F4EP5Q5jQlY/0.jpg)](https://youtu.be/F4EP5Q5jQlY)
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/61814648/114956031-d67c4380-9e12-11eb-8efd-d8b15bfe5a0b.png)](https://youtu.be/F4EP5Q5jQlY)
 
 ### Repository
 [The Cost of Health Insurance](https://github.com/afemal/The_Cost_of_Health_Insurance)
