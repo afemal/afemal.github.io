@@ -66,7 +66,7 @@ Looking at the data, it appeared the most significant variables contributing to 
 We repeated the process but with BMI as a continuous variable as it originally appeared in the data. The results were as follows:
 
 <figure>
-  <img src="https://user-images.githubusercontent.com/61814648/114953814-168cf780-9e0e-11eb-8ec4-83b34845b4d4.png" style="width:100%">
+  <img src="https://user-images.githubusercontent.com/61814648/114955123-cbc0af00-9e10-11eb-906d-ab3153fa5f55.png" style="width:100%">
 </figure>
 
 BMI as a continuous variable has more significance than as a categorical variable. It also lessens the significance of region, children, and sex. Therefore, we selected smoker, BMI as a continuous variable, and age as the variables to use in our regression models.
@@ -86,30 +86,42 @@ The random forest regression model performed better than the other two models. N
 * min_samples_split = 4
 * n_estimators = 200
 
-CONTINUE HERE
+### Results
+Using these parameters, we trained the random forest with the training and validation data and fit it on our test data. We obtained the following results:
 
-### Tools
-* Python and Jupyter Notebook 
-* Libraries
-  * pandas
-  * numpy
-  * matplotlib
-  * seaborn
-  * scikit-learn
+* R-squared: 0.86
+* MAE: 2022.03
 
-### Data
-[Medical Cost Personal Dataset](https://www.kaggle.com/mirichoi0218/insurance)
-
-### Modeling Methods
-* Linear Regression
-* Decision Tree
-* Random Forest
+The results using the fine-tuned random forest shows increased performance in both performance metrics. The resulting R-squared value indicates that 86% of our data fit the random forest regression model. The mean absolute error indicts our prediction is off by $2022.03 on average.  
 
 ### Conclusion
-Our random forest model provided a R-squared value of 0.86 and a mean absolute error of 2022.03. These results indicate that 86% of the data fits the model and our prediction is off by $2022.03 on average.     
+Based on the regression models we used, we saw improved prediction when using the fine-tuned random forest model. However, there may be other models that increase prediction performance. Our analysis and predictions were limited to the variables in our dataset. There are many other factors that may contribute to the costs of health insurance, besides the personal attributes of the policy holder. Some of these factors may include, but are not limited to, the following:
+
+* whether a spouse is on the plan
+* whether the policy holder has secondary health insurance 
+* whether insurance coverage is provided by an employer, Medicare, Medicaid, Affordable Care Act, etc.
+* which insurance company is providing coverage 
+* the type of insurance plan, such as high or low deductible
+* whether those insured have chronic diseases or illnesses
 
 ### Presentation
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/F4EP5Q5jQlY/0.jpg)](https://youtu.be/F4EP5Q5jQlY)
 
 ### Repository
 [The Cost of Health Insurance](https://github.com/afemal/The_Cost_of_Health_Insurance)
+
+### References
+Bihari, Michael. (2020, December 8). “What Determines the Cost of a Health Insurance Plan?” Verywell Health. Retrieved February 14, 2021, from <a>www.verywellhealth.com/cost-of-health-insurance-1738623</a>
+
+Choi, M. (2018, February 21). Medical Cost Personal Datasets. Retrieved December 02, 2020, from <a>https://www.kaggle.com/mirichoi0218/insurance</a>
+
+Defining adult overweight and obesity. (2020, September 17). Retrieved February 14, 2021, from <a>https://www.cdc.gov/obesity/adult/defining.html</a?
+
+Fernando, Jason. (2020, November 18). “R-Squared.” Investopedia. Retrieved March 02, 2021, from <a>www.investopedia.com/terms/r/r-squared.asp</a>
+
+How does the size of my family impact my insurance cost? (n.d.). Retrieved February 14, 2021, from <a>https://www.bcbsm.com/index/health-insurance-help/faqs/topics/buying-insurance/family-size-impact-cost.html</a>
+
+How health insurance marketplace® plans set your premiums. (n.d.). Retrieved February 14, 2021, from <a>https://www.healthcare.gov/how-plans-set-your-premiums/</a>
+
+Understanding health Insurance Costs: Premiums, deductibles & more. (n.d.). Medical Mutual. Retrieved February 14, 2021, from <a>https://www.medmutual.com/For-Individuals-and-Families/Health-Insurance-Education/Health-Insurance-Basics/Understanding-Costs.aspx</a>
+
