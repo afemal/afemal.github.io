@@ -111,7 +111,7 @@ Based on the regression models we used, we saw improved prediction when using th
 [The Cost of Health Insurance](https://github.com/afemal/The_Cost_of_Health_Insurance)
 
 ### References
-Bihari, Michael. (2020, December 8). “What Determines the Cost of a Health Insurance Plan?” Verywell Health. Retrieved February 14, 2021, from <a>www.verywellhealth.com/cost-of-health-insurance-1738623</a>
+Bihari, Michael. (2020, December 8). “What Determines the Cost of a Health Insurance Plan?” Verywell Health. Retrieved February 14, 2021, from <a>https://www.verywellhealth.com/cost-of-health-insurance-1738623</a>
 
 Choi, M. (2018, February 21). Medical Cost Personal Datasets. Retrieved December 02, 2020, from <a>https://www.kaggle.com/mirichoi0218/insurance</a>
 
