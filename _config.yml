@@ -125,19 +125,19 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
+    - label: ""
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/itsamylyfe"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
-    - label: #"GitHub"
+    - label: ""
       icon: "fab fa-fw fa-github"
       url: "https://github.com/afemal"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: #"LinkedIn"
+    - label: ""
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/amy-femal-66316419a/"
     - label: "Instagram"
