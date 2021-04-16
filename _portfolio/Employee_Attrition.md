@@ -7,10 +7,10 @@ mathjax: "true"
 ### Introduction
 Employee attrition is the natural process in which employees leave the workforce. This can include retirement and voluntary, or involuntary, separations from a company. Whether an employee chooses to leave a company on their own accord, high attrition rates can be harmful to a company and can lead to the following:
 
-•	Incurred costs as a result of recruitment, hiring, and training of new employees
-•	Decreased product or service quality
-•	Decreased employee performance or morale
-•	Delays in current projects or failure to meet deadlines
+* Incurred costs as a result of recruitment, hiring, and training of new employees
+* Decreased product or service quality
+* Decreased employee performance or morale
+* Delays in current projects or failure to meet deadlines
 
 The XYZ Company employs over 4000 employees, with an annual attrition rate of approximately 16%. It is in the company's best interest to retain their current employees. Thus, the XYZ Company is interested in understanding the factors that affect employee attrition to determine which employees are at risk. This will allow the company to reduce the attrition rate by implementing different techniques and incentives, such as additional training, wage increases, and opportunities for promotion.
 
