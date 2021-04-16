@@ -6,5 +6,5 @@ adauthor_profile: True
 classes: wide
 ---
 
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I would love to hear from you...
+## &nbsp;&nbsp; I would love to hear from you...
 
