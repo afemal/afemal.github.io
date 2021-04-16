@@ -15,7 +15,7 @@ I obtained the [Credit Card Customers](https://www.kaggle.com/sakshigoyal7/credi
 
 <figure>
   <figcaption>Figure 1: Variables with top 97% importance</figcaption>
-  <img src="https://user-images.githubusercontent.com/61814648/114959094-31b13480-9e19-11eb-939c-fdd5ce1599fa.png" style="width:100%">
+  <img src="https://user-images.githubusercontent.com/61814648/114959334-af754000-9e19-11eb-9ce8-38d3fbe50f21.png" style="width:100%">
 </figure>
 
 <figure>
