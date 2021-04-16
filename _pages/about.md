@@ -7,7 +7,7 @@ classes: wide
 This porfolio was created to showcase projects completed during my time as a grad student. 
 
 # About Me
-During my undergraduate studies of Probability and Statistics, I fell in love with all things data and decided to follow my heart and continue my education. I am currently persuing a Master's degree in Data Science and seeking new career opportunities.
+While studying Probability and Statistics as an undergrad, I fell in love with all things data. I decided to follow my heart and continue my education. I am currently persuing a Master's degree in Data Science and seeking new career opportunities.
 
 
 ### Technologies I Use
