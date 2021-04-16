@@ -146,7 +146,9 @@ I trained the model using training data and ran the test data through the model.
 
 Using the training and testing data, the decision tree model provides a prediction accuracy of 83.6% and a recall of 79.8%. The k-nearest neighbors model, when k = 29, provides a prediction accuracy of 80% and a recall of 85%. Using cross validation on a random forest model, BI.RADS is indicated as the only significant variable. The random forest model provides a prediction accuracy of 81.8% and a recall of 84.7%. The decision tree model provided the most prediction accuracy; however, the best model is the logistic regression model with decision threshold of 6% with 100% recall, as seen in the table below.
 
-![mam5](https://user-images.githubusercontent.com/61814648/114963556-ddf71900-9e21-11eb-970a-4252322c2344.png)
+<figure>
+  <img src="https://user-images.githubusercontent.com/61814648/114963556-ddf71900-9e21-11eb-970a-4252322c2344.png" style="width:80%">
+</figure>
 
 **Fine Needle Aspiration Biopsy**
 
