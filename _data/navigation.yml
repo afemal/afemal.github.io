@@ -1,9 +1,11 @@
 # main links
 main:
-  - title: "Projects"
-    url: /portfolio/
+  - title: "Home"
+    url: /home/
   - title: "About"
     url: /about/
+  - title: "Projects"
+    url: /portfolio/
   - title: "Contact"
     url: /contact/
   # - title: "Sitemap"
