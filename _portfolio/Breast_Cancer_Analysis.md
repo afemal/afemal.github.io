@@ -147,7 +147,7 @@ I trained the model using training data and ran the test data through the model.
 Using the training and testing data, the decision tree model provides a prediction accuracy of 83.6% and a recall of 79.8%. The k-nearest neighbors model, when k = 29, provides a prediction accuracy of 80% and a recall of 85%. Using cross validation on a random forest model, BI.RADS is indicated as the only significant variable. The random forest model provides a prediction accuracy of 81.8% and a recall of 84.7%. The decision tree model provided the most prediction accuracy; however, the best model is the logistic regression model with decision threshold of 6% with 100% recall, as seen in the table below.
 
 <figure>
-  <img src="https://user-images.githubusercontent.com/61814648/114963556-ddf71900-9e21-11eb-970a-4252322c2344.png" style="width:80%">
+  <img src="https://user-images.githubusercontent.com/61814648/114963556-ddf71900-9e21-11eb-970a-4252322c2344.png" style="width:70%">
 </figure>
 
 **Fine Needle Aspiration Biopsy**
@@ -159,7 +159,7 @@ I need to decide how to proceed with the radius, perimeter, and area variables. 
 The variables are highly correlated, as suspected. To help decide which two variables to removed from the data frame, I will examine their correlation coefficients.
 
 <figure>
-  <img src="https://user-images.githubusercontent.com/61814648/114963660-15fe5c00-9e22-11eb-8aa5-6cf82d983828.png" style="width:80%">
+  <img src="https://user-images.githubusercontent.com/61814648/114963660-15fe5c00-9e22-11eb-8aa5-6cf82d983828.png" style="width:70%">
 </figure>
 
 The greatest correlation is between the product of the radius and perimeter variables and the area variable. Therefore, I will remove the radius and perimeter variables. I want to examine the correlation between the remaining variables.
@@ -185,7 +185,7 @@ The Mann-Whitney U Test verifies these claims. I will use these variables in a l
 I trained the model using training data and ran the test data through the models. Using a 50% decision threshold, the logistic regression model provides a prediction accuracy of 92% and a recall of 86.7%. To eliminate Type II Errors, I decreased the decision threshold to 26%.  This provides a prediction accuracy of 94.7% and 100% recall. The decision tree model provides a prediction accuracy of 90.3% and a recall of 83%. The k-nearest neighbors model, when k = 23, provides a prediction accuracy of 86.7% and a recall of 71.4%. The random forest model provides a prediction accuracy of 92.9% and a recall of 90.5%. The logistic regression model with a 26% decision threshold provides the best prediction accuracy with perfect recall, as seen in the table below.
 
 <figure>
-  <img src="https://user-images.githubusercontent.com/61814648/114963812-64135f80-9e22-11eb-82d2-bd51313fb200.png" style="width:80%">
+  <img src="https://user-images.githubusercontent.com/61814648/114963812-64135f80-9e22-11eb-82d2-bd51313fb200.png" style="width:70%">
 </figure>
 
 The only variable found to be significant in predicting the survival of a patient was the number of positive axillary lymph nodes. Axillary lymph nodes are taken from the axilla, or the armpit. When cancer cells are detected in the axillary lymph nodes, it indicates metastasis. As observed in the analysis, smaller amounts of positive lymph node increased the probability of surviving for longer than five years after surgery. These finding emphasizes the importance of recall accuracy, early detection, and timely treatment.
