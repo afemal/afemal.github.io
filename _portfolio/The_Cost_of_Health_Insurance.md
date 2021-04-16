@@ -74,7 +74,7 @@ BMI as a continuous variable has more significance than as a categorical variabl
 Using the selected variables – smoker, BMI, and age – we trained and fit linear regression, decision tree, and random forest models to the validation data. We decided to use the R-squared and mean absolute error metrics to evaluate the performance of our models. R-squared is a statistical measure that represents the proportion of the variance for a dependent variable that is explained by an independent variable or variables in a regression model. Whereas correlation explains the strength of the relationship between an independent and dependent variable, R-squared explains to what extent the variance of one variable explains the variance of the second variable. The mean absolute error (MAE) measures the average magnitude of the errors in a set of forecasts, without considering their direction. It measures accuracy for continuous variables. Using these metrics to evaluate the models, we obtained the following results:
 
 <figure>
-  <img src="https://user-images.githubusercontent.com/61814648/114953942-5e138380-9e0e-11eb-899c-5955a0cae116.png" style="width:100%">
+  <img src="https://user-images.githubusercontent.com/61814648/114953942-5e138380-9e0e-11eb-899c-5955a0cae116.png" style="width:90%">
 </figure>
 
 The random forest regression model performed better than the other two models. Next, we concatenated our training and validation data and performed a cross-validation grid search to choose the hyper-parameters for our random forest regression model. Using the grid search to find the values that resulted in the best mean absolute error score, the following parameters were selected: 
